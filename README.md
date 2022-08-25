@@ -1,5 +1,7 @@
 # slider-puzzle-app
 
+### By following the tutorial for the book [**Vue.js3 with Example**](https://github.com/PacktPublishing/-Vue.js-3-By-Example)
+
 ## Project setup
 ```
 yarn install
